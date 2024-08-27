@@ -1,0 +1,12 @@
+A program to demonstrate how to update records in db by using update method:
+Programs:
+* Product.java
+* ProductMapper.java
+* AppConfig.java
+* Test.java
+Note:
+
+Output:
+Product [productId=2, productCode=P002, productName=Pen, quantity=54, price=10.0]
+Records updated successfully.
+Product [productId=2, productCode=P002, productName=Pen, quantity=20, price=10.0]
